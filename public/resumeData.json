@@ -4,10 +4,10 @@
     "occupation":"student",
     "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
+    "bio":"Passionate individual with extensive knowledge in software development seeking to explore and apply current breakthrough technologies to today's world. ",
+    "contactmessage":"Let's get in touch!",
+    "email": "aliza.lau@outlook.com",
+    "phone": "416-825-1623",
     "address":{
       "street":"(Your Street)",
       "city":"(Your City)",
@@ -58,30 +58,30 @@
     "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
-      },
-      {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"University of Toronto",
+        "degree":"Bachelor of Science - Computer Science",
+        "graduated":"Expected grad - Fall 2021",
+        "description":"Specializing in Software Engineering"
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Intuit",
+        "title":"Software Developer",
+        "years":"Jan 2020 - Apr 2020, Sept 2020 - Dec 2020",
+        "description":""
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Health Bridge",
+        "title":"Software Developer",
+        "years":"May 2020 - Aug 2020",
+        "description":"A Toronto startup focused on eliminating language barriers in healthcare."
+      },
+      {
+        "company":"Sunnybrook Health Sciences Centre",
+        "title":"Sleep and Brain Health Lab Data Analyst",
+        "years":"Jan 2018 - Apr 2018",
+        "description":"Managed the development of various R scripts to compute and assess data recordings of over 2000 study participants. Facilitated the doctor’s research studies by approaching 200 sleep patients and clearly outlined lab procedures to obtain consent and collect data from patients"
       }
     ],
     "skills":[
